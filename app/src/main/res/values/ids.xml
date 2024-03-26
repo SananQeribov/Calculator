@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView" type="id" />
+    <item name="numbt4" type="id" />
+    <item name="clear" type="id" />
+    <item name="vurmabt" type="id" />
+    <item name="bolme" type="id" />
+    <item name="num7" type="id" />
+    <item name="num8" type="id" />
+    <item name="num9" type="id" />
+    <item name="minus" type="id" />
+    <item name="num4" type="id" />
+</resources>
